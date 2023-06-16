@@ -11,5 +11,10 @@ To view balance
 ![To view the Account List](https://github.com/va1labh/BankMgmtSystem/blob/main/AccList.png)
 To View an account
 
-![To Modify Account](
+![To Modify Account](https://github.com/va1labh/BankMgmtSystem/blob/main/ModifyAcc.png)
+To Modify account
+
+![To update withdrawal amount](https://github.com/va1labh/BankMgmtSystem/blob/main/Withdraw.png)
+To Update Withdrawal records.
+
 
